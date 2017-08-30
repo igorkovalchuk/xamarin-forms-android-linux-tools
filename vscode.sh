@@ -1,0 +1,2 @@
+
+$VSCODE_DIR/code &
