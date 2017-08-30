@@ -1,0 +1,1 @@
+Please compile the resgen-cs.exe from sources (this is a long process) - see the resgen-cs-files directory.
