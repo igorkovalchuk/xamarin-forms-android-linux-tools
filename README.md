@@ -13,6 +13,10 @@ NEW: use android-dll-fast.sh to build the Droid dll and run the application (fir
 
 NEW: clean.sh
 
+NEW: xbuild.sh and xfast.sh - use it instead of build.sh and fast.sh where it fails with Net Standard libraries;
+
+NEW: utils_debug_flag.sh - to see the number of a line (in logcat) if you have an Exception;
+
 Use localize-app.sh to create the AppResources.designer.cs class file.
 
 localize-base.sh is an example how to compile the second resx, for example, BaseResources.resx to the class file.
