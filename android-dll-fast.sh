@@ -6,7 +6,7 @@ DATE1=$(date)
 $ANDROID_SDK/platform-tools/adb shell am force-stop $APP_PACKAGE &
 # $ANDROID_SDK/platform-tools/adb shell am kill $APP_PACKAGE &
 
-msbuild /p:AndroidApplication=false $APP_DROID_DIR
+msbuild /p:AndroidApplication=false /p:AndroidSdkDirectory=$ANDROID_SDK $APP_DROID_DIR
 
 $ANDROID_SDK/platform-tools/adb shell rm $ANDROID_OVERRIDE_DIR/*
 $ANDROID_SDK/platform-tools/adb push $APP_DROID_PREFIX.Droid.dll $ANDROID_OVERRIDE_DIR
