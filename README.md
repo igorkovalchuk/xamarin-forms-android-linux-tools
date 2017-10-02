@@ -22,3 +22,5 @@ Use localize-app.sh to create the AppResources.designer.cs class file.
 localize-base.sh is an example how to compile the second resx, for example, BaseResources.resx to the class file.
 
 More details about this experiment: https://xamarin-forms-linux.blogspot.com/
+
+Documentation: https://goo.gl/mQvTJk
