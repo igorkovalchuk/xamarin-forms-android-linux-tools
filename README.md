@@ -1,5 +1,15 @@
 # xamarin-forms-android-linux-tools
-Collection of command line tools for Xamarin.Forms Android on Linux
+Collection of command line tools for Xamarin.Forms Android on Linux and documentation to configure the build process.
+
+## Documentation
+
+https://goo.gl/mQvTJk (Google Docs)
+
+## Updates
+
+Updates and more/previous details about this experiment: https://xamarin-forms-linux.blogspot.com/
+
+## Command line tools
 
 Please modify the config*.sh files first.
 
@@ -20,7 +30,3 @@ NEW: utils_debug_flag.sh - to see the number of a line (in logcat) if you have a
 Use localize-app.sh to create the AppResources.designer.cs class file.
 
 localize-base.sh is an example how to compile the second resx, for example, BaseResources.resx to the class file.
-
-Documentation: https://goo.gl/mQvTJk (!)
-
-More details about this experiment: https://xamarin-forms-linux.blogspot.com/
