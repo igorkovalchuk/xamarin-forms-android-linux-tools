@@ -30,3 +30,13 @@ NEW: utils_debug_flag.sh - to see the number of a line (in logcat) if you have a
 Use localize-app.sh to create the AppResources.designer.cs class file.
 
 localize-base.sh is an example how to compile the second resx, for example, BaseResources.resx to the class file.
+
+NEW: release-build.sh (msbuild based Release build)
+
+NEW: release-sign.sh - it is necessary when AndroidCreatePackagePerAbi = true
+
+NEW: release-deploy.sh
+
+NEW: xrelease-build.sh (warning: some projects do not work with xbuild)
+
+NEW: xandroid-dll-fast.sh (warning: it can broke the UI - it removes the toolbar)
