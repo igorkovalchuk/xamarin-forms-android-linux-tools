@@ -1,3 +1,8 @@
+
+# Warning: it doesn't work today for me ... 
+**I need to found why (26.07.2019, Debian 9, xamarin-android build 2194)**
+
+
 # xamarin-forms-android-linux-tools
 Collection of command line tools for Xamarin.Forms Android on Linux and documentation to configure the build process.
 
