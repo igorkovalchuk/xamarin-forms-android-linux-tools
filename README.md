@@ -1,5 +1,5 @@
 
-# Warning: it doesn't work today for me ... 
+# Warning: it doesn't work today on my emulator (but it works on a device) ... 
 **I need to found why (26.07.2019, Debian 9, xamarin-android build 2194)**
 
 
