@@ -45,3 +45,9 @@ NEW: release-deploy.sh
 NEW: xrelease-build.sh (warning: some projects do not work with xbuild)
 
 NEW: xandroid-dll-fast.sh (warning: it can broke the UI - it removes the toolbar)
+
+## Updated fast.sh for new versions of Xamarin.Forms and Android:
+
+`ANDROID_OVERRIDE_DIR=/data/user/0/com.example.sampleresources/files/.__override__`
+
+https://github.com/igorkovalchuk/xamarin-forms-android-linux-project-templates/blob/master/template-4.3.0.851321-pre3/fast.sh
