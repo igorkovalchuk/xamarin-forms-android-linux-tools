@@ -1,5 +1,5 @@
 
-# Warning: Xamarin.Android Linux build project is currently disabled
+# Warning: Xamarin.Android Linux build project is currently disabled (I don't know is it temporary or not)
 
 https://xamarin-forms-linux.blogspot.com/
 
