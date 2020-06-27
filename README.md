@@ -1,5 +1,5 @@
 
-# Warning: Xamarin.Android Linux build project is currently disabled (I don't know is it temporary or not)
+# Warning: use it at your own risk. If this works for me, it may not work for your environment. This process can take a lot of time.
 
 https://xamarin-forms-linux.blogspot.com/
 
